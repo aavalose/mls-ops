@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/arturoavalos/Documents/MSDS/4mod/mlops/mlruns/348141322430011988/1ea407514fcb4a1aa5137f5b2b8c8158/artifacts
+end_time: 1742859562027
+entry_point_name: ''
+experiment_id: '348141322430011988'
+lifecycle_stage: active
+run_id: 1ea407514fcb4a1aa5137f5b2b8c8158
+run_name: thoughtful-skunk-163
+run_uuid: 1ea407514fcb4a1aa5137f5b2b8c8158
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742859561157
+status: 3
+tags: []
+user_id: arturoavalos

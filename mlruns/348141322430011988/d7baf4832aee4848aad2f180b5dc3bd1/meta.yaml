@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/arturoavalos/Documents/MSDS/4mod/mlops/mlruns/348141322430011988/d7baf4832aee4848aad2f180b5dc3bd1/artifacts
+end_time: 1742858485213
+entry_point_name: ''
+experiment_id: '348141322430011988'
+lifecycle_stage: active
+run_id: d7baf4832aee4848aad2f180b5dc3bd1
+run_name: funny-ray-559
+run_uuid: d7baf4832aee4848aad2f180b5dc3bd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742858484369
+status: 3
+tags: []
+user_id: arturoavalos

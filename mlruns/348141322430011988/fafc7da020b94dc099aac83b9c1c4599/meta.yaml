@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/arturoavalos/Documents/MSDS/4mod/mlops/mlruns/348141322430011988/fafc7da020b94dc099aac83b9c1c4599/artifacts
+end_time: 1742858479420
+entry_point_name: ''
+experiment_id: '348141322430011988'
+lifecycle_stage: active
+run_id: fafc7da020b94dc099aac83b9c1c4599
+run_name: persistent-vole-90
+run_uuid: fafc7da020b94dc099aac83b9c1c4599
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742858478496
+status: 3
+tags: []
+user_id: arturoavalos

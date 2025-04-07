@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/arturoavalos/Documents/MSDS/4mod/mlops/mlruns/348141322430011988/f434ae3b90904078998b92254f79b9ad/artifacts
+end_time: 1742858464626
+entry_point_name: ''
+experiment_id: '348141322430011988'
+lifecycle_stage: active
+run_id: f434ae3b90904078998b92254f79b9ad
+run_name: carefree-snail-70
+run_uuid: f434ae3b90904078998b92254f79b9ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742858463780
+status: 3
+tags: []
+user_id: arturoavalos

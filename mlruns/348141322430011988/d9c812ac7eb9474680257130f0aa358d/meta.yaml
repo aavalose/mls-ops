@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/arturoavalos/Documents/MSDS/4mod/mlops/mlruns/348141322430011988/d9c812ac7eb9474680257130f0aa358d/artifacts
+end_time: 1742859567405
+entry_point_name: ''
+experiment_id: '348141322430011988'
+lifecycle_stage: active
+run_id: d9c812ac7eb9474680257130f0aa358d
+run_name: nosy-hound-563
+run_uuid: d9c812ac7eb9474680257130f0aa358d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742859566550
+status: 3
+tags: []
+user_id: arturoavalos

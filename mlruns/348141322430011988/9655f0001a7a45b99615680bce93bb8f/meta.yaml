@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/arturoavalos/Documents/MSDS/4mod/mlops/mlruns/348141322430011988/9655f0001a7a45b99615680bce93bb8f/artifacts
+end_time: 1742858469779
+entry_point_name: ''
+experiment_id: '348141322430011988'
+lifecycle_stage: active
+run_id: 9655f0001a7a45b99615680bce93bb8f
+run_name: delightful-cow-118
+run_uuid: 9655f0001a7a45b99615680bce93bb8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742858468966
+status: 3
+tags: []
+user_id: arturoavalos

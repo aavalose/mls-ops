@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/arturoavalos/Documents/MSDS/4mod/mlops/mlruns/348141322430011988/557e70c729d34143a93a219624610180/artifacts
+end_time: 1742859824906
+entry_point_name: ''
+experiment_id: '348141322430011988'
+lifecycle_stage: active
+run_id: 557e70c729d34143a93a219624610180
+run_name: bouncy-gnat-931
+run_uuid: 557e70c729d34143a93a219624610180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742859824900
+status: 3
+tags: []
+user_id: arturoavalos

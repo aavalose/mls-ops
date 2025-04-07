@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/arturoavalos/Documents/MSDS/4mod/mlops/mlruns/348141322430011988/7988134fe4654fba911dd923741e8941/artifacts
+end_time: 1742859363308
+entry_point_name: ''
+experiment_id: '348141322430011988'
+lifecycle_stage: active
+run_id: 7988134fe4654fba911dd923741e8941
+run_name: grandiose-cow-864
+run_uuid: 7988134fe4654fba911dd923741e8941
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742859361768
+status: 3
+tags: []
+user_id: arturoavalos

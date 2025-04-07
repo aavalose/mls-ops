@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/arturoavalos/Documents/MSDS/4mod/mlops/mlruns/348141322430011988/f48e6fc3ee5f404e92158926cfa14ca4/artifacts
+end_time: 1742858481689
+entry_point_name: ''
+experiment_id: '348141322430011988'
+lifecycle_stage: active
+run_id: f48e6fc3ee5f404e92158926cfa14ca4
+run_name: selective-kite-412
+run_uuid: f48e6fc3ee5f404e92158926cfa14ca4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742858480835
+status: 3
+tags: []
+user_id: arturoavalos

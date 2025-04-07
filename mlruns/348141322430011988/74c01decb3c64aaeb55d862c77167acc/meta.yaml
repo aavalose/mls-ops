@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/arturoavalos/Documents/MSDS/4mod/mlops/mlruns/348141322430011988/74c01decb3c64aaeb55d862c77167acc/artifacts
+end_time: 1742859371267
+entry_point_name: ''
+experiment_id: '348141322430011988'
+lifecycle_stage: active
+run_id: 74c01decb3c64aaeb55d862c77167acc
+run_name: learned-robin-955
+run_uuid: 74c01decb3c64aaeb55d862c77167acc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742859369357
+status: 3
+tags: []
+user_id: arturoavalos

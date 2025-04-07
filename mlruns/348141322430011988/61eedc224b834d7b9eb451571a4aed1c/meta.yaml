@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/arturoavalos/Documents/MSDS/4mod/mlops/mlruns/348141322430011988/61eedc224b834d7b9eb451571a4aed1c/artifacts
+end_time: 1742858480832
+entry_point_name: ''
+experiment_id: '348141322430011988'
+lifecycle_stage: active
+run_id: 61eedc224b834d7b9eb451571a4aed1c
+run_name: defiant-shrike-712
+run_uuid: 61eedc224b834d7b9eb451571a4aed1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742858479423
+status: 3
+tags: []
+user_id: arturoavalos

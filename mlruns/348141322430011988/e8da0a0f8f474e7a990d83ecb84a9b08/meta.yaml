@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/arturoavalos/Documents/MSDS/4mod/mlops/mlruns/348141322430011988/e8da0a0f8f474e7a990d83ecb84a9b08/artifacts
+end_time: 1742859555707
+entry_point_name: ''
+experiment_id: '348141322430011988'
+lifecycle_stage: active
+run_id: e8da0a0f8f474e7a990d83ecb84a9b08
+run_name: spiffy-yak-161
+run_uuid: e8da0a0f8f474e7a990d83ecb84a9b08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742859554886
+status: 3
+tags: []
+user_id: arturoavalos

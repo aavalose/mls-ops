@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/arturoavalos/Documents/MSDS/4mod/mlops/mlruns/348141322430011988/5a93cc938ae444b4b8ea7fd9073364b5/artifacts
+end_time: 1742859561154
+entry_point_name: ''
+experiment_id: '348141322430011988'
+lifecycle_stage: active
+run_id: 5a93cc938ae444b4b8ea7fd9073364b5
+run_name: chill-bee-64
+run_uuid: 5a93cc938ae444b4b8ea7fd9073364b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742859560164
+status: 3
+tags: []
+user_id: arturoavalos

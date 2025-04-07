@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/arturoavalos/Documents/MSDS/4mod/mlops/mlruns/348141322430011988/b2e7cc1e7a8f444d97c6b7c7304c0c25/artifacts
+end_time: 1742859824930
+entry_point_name: ''
+experiment_id: '348141322430011988'
+lifecycle_stage: active
+run_id: b2e7cc1e7a8f444d97c6b7c7304c0c25
+run_name: gregarious-newt-835
+run_uuid: b2e7cc1e7a8f444d97c6b7c7304c0c25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742859824923
+status: 3
+tags: []
+user_id: arturoavalos

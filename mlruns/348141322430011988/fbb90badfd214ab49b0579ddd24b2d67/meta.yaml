@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/arturoavalos/Documents/MSDS/4mod/mlops/mlruns/348141322430011988/fbb90badfd214ab49b0579ddd24b2d67/artifacts
+end_time: 1742859380508
+entry_point_name: ''
+experiment_id: '348141322430011988'
+lifecycle_stage: active
+run_id: fbb90badfd214ab49b0579ddd24b2d67
+run_name: mysterious-worm-55
+run_uuid: fbb90badfd214ab49b0579ddd24b2d67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742859379697
+status: 3
+tags: []
+user_id: arturoavalos

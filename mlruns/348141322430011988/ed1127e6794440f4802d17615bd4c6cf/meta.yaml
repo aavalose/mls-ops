@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/arturoavalos/Documents/MSDS/4mod/mlops/mlruns/348141322430011988/ed1127e6794440f4802d17615bd4c6cf/artifacts
+end_time: 1742859381330
+entry_point_name: ''
+experiment_id: '348141322430011988'
+lifecycle_stage: active
+run_id: ed1127e6794440f4802d17615bd4c6cf
+run_name: polite-smelt-975
+run_uuid: ed1127e6794440f4802d17615bd4c6cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742859380514
+status: 3
+tags: []
+user_id: arturoavalos

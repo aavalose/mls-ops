@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/arturoavalos/Documents/MSDS/4mod/mlops/mlruns/348141322430011988/9876e125675042be876d1fd28588207a/artifacts
+end_time: 1742859553211
+entry_point_name: ''
+experiment_id: '348141322430011988'
+lifecycle_stage: active
+run_id: 9876e125675042be876d1fd28588207a
+run_name: gregarious-eel-353
+run_uuid: 9876e125675042be876d1fd28588207a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742859552398
+status: 3
+tags: []
+user_id: arturoavalos

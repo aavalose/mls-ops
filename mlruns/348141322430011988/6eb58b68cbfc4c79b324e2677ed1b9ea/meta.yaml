@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/arturoavalos/Documents/MSDS/4mod/mlops/mlruns/348141322430011988/6eb58b68cbfc4c79b324e2677ed1b9ea/artifacts
+end_time: 1742859377261
+entry_point_name: ''
+experiment_id: '348141322430011988'
+lifecycle_stage: active
+run_id: 6eb58b68cbfc4c79b324e2677ed1b9ea
+run_name: placid-whale-989
+run_uuid: 6eb58b68cbfc4c79b324e2677ed1b9ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742859375313
+status: 3
+tags: []
+user_id: arturoavalos

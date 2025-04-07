@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/arturoavalos/Documents/MSDS/4mod/mlops/mlruns/348141322430011988/f3446feadff64c389202b90594a5ce68/artifacts
+end_time: 1742859384825
+entry_point_name: ''
+experiment_id: '348141322430011988'
+lifecycle_stage: active
+run_id: f3446feadff64c389202b90594a5ce68
+run_name: exultant-lynx-9
+run_uuid: f3446feadff64c389202b90594a5ce68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742859384006
+status: 3
+tags: []
+user_id: arturoavalos

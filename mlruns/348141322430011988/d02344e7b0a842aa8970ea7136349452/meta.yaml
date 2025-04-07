@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/arturoavalos/Documents/MSDS/4mod/mlops/mlruns/348141322430011988/d02344e7b0a842aa8970ea7136349452/artifacts
+end_time: 1742858472572
+entry_point_name: ''
+experiment_id: '348141322430011988'
+lifecycle_stage: active
+run_id: d02344e7b0a842aa8970ea7136349452
+run_name: polite-moth-689
+run_uuid: d02344e7b0a842aa8970ea7136349452
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742858471762
+status: 3
+tags: []
+user_id: arturoavalos

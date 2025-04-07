@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/arturoavalos/Documents/MSDS/4mod/mlops/mlruns/348141322430011988/613374844d1241f69a1a96af728bb523/artifacts
+end_time: 1742859543271
+entry_point_name: ''
+experiment_id: '348141322430011988'
+lifecycle_stage: active
+run_id: 613374844d1241f69a1a96af728bb523
+run_name: wistful-crow-471
+run_uuid: 613374844d1241f69a1a96af728bb523
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742859542281
+status: 3
+tags: []
+user_id: arturoavalos

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/arturoavalos/Documents/MSDS/4mod/mlops/mlruns/348141322430011988/2c3b0c7a71cc48028b03f1ee383cc0c8/artifacts
+end_time: 1742858463776
+entry_point_name: ''
+experiment_id: '348141322430011988'
+lifecycle_stage: active
+run_id: 2c3b0c7a71cc48028b03f1ee383cc0c8
+run_name: wistful-dove-710
+run_uuid: 2c3b0c7a71cc48028b03f1ee383cc0c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742858461849
+status: 3
+tags: []
+user_id: arturoavalos

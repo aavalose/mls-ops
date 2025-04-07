@@ -1,0 +1,25 @@
+{
+  "dataset_info": {
+    "training_set_shape": [
+      120,
+      2
+    ],
+    "test_set_shape": [
+      30,
+      2
+    ],
+    "training_samples": 120,
+    "test_samples": 30,
+    "features": [
+      "sepal length (cm)",
+      "sepal width (cm)",
+      "petal length (cm)",
+      "petal width (cm)"
+    ],
+    "target_classes": [
+      0,
+      1,
+      2
+    ]
+  }
+}

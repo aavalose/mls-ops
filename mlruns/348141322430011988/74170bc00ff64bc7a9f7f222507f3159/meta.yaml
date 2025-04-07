@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/arturoavalos/Documents/MSDS/4mod/mlops/mlruns/348141322430011988/74170bc00ff64bc7a9f7f222507f3159/artifacts
+end_time: 1742859824899
+entry_point_name: ''
+experiment_id: '348141322430011988'
+lifecycle_stage: active
+run_id: 74170bc00ff64bc7a9f7f222507f3159
+run_name: zealous-crow-117
+run_uuid: 74170bc00ff64bc7a9f7f222507f3159
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742859824893
+status: 3
+tags: []
+user_id: arturoavalos

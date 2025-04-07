@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/arturoavalos/Documents/MSDS/4mod/mlops/mlruns/348141322430011988/8b049edbcfc64a16bb86b87c2993ce46/artifacts
+end_time: 1742859358658
+entry_point_name: ''
+experiment_id: '348141322430011988'
+lifecycle_stage: active
+run_id: 8b049edbcfc64a16bb86b87c2993ce46
+run_name: trusting-bass-715
+run_uuid: 8b049edbcfc64a16bb86b87c2993ce46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742859357074
+status: 3
+tags: []
+user_id: arturoavalos

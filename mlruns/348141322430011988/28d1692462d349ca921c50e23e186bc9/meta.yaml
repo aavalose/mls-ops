@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/arturoavalos/Documents/MSDS/4mod/mlops/mlruns/348141322430011988/28d1692462d349ca921c50e23e186bc9/artifacts
+end_time: 1742859356177
+entry_point_name: ''
+experiment_id: '348141322430011988'
+lifecycle_stage: active
+run_id: 28d1692462d349ca921c50e23e186bc9
+run_name: casual-colt-704
+run_uuid: 28d1692462d349ca921c50e23e186bc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742859355323
+status: 3
+tags: []
+user_id: arturoavalos

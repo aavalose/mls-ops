@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/arturoavalos/Documents/MSDS/4mod/mlops/mlruns/348141322430011988/98b2180fb25a46faa9be3326a94a07a1/artifacts
+end_time: 1742859383074
+entry_point_name: ''
+experiment_id: '348141322430011988'
+lifecycle_stage: active
+run_id: 98b2180fb25a46faa9be3326a94a07a1
+run_name: languid-moose-390
+run_uuid: 98b2180fb25a46faa9be3326a94a07a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742859382178
+status: 3
+tags: []
+user_id: arturoavalos

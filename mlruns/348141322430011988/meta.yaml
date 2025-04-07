@@ -1,0 +1,6 @@
+artifact_location: file:///Users/arturoavalos/Documents/MSDS/4mod/mlops/mlruns/348141322430011988
+creation_time: 1742858460088
+experiment_id: '348141322430011988'
+last_update_time: 1742858460088
+lifecycle_stage: active
+name: iris-classification

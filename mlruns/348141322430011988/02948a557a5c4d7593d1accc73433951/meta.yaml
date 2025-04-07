@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/arturoavalos/Documents/MSDS/4mod/mlops/mlruns/348141322430011988/02948a557a5c4d7593d1accc73433951/artifacts
+end_time: 1742859368546
+entry_point_name: ''
+experiment_id: '348141322430011988'
+lifecycle_stage: active
+run_id: 02948a557a5c4d7593d1accc73433951
+run_name: redolent-squid-684
+run_uuid: 02948a557a5c4d7593d1accc73433951
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742859367347
+status: 3
+tags: []
+user_id: arturoavalos

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/arturoavalos/Documents/MSDS/4mod/mlops/mlruns/348141322430011988/ae3730cc41ac4f5d817d63998a3d13a2/artifacts
+end_time: 1742859384000
+entry_point_name: ''
+experiment_id: '348141322430011988'
+lifecycle_stage: active
+run_id: ae3730cc41ac4f5d817d63998a3d13a2
+run_name: melodic-dog-933
+run_uuid: ae3730cc41ac4f5d817d63998a3d13a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742859383080
+status: 3
+tags: []
+user_id: arturoavalos

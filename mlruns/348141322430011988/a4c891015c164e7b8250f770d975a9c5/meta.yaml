@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/arturoavalos/Documents/MSDS/4mod/mlops/mlruns/348141322430011988/a4c891015c164e7b8250f770d975a9c5/artifacts
+end_time: 1742859824855
+entry_point_name: ''
+experiment_id: '348141322430011988'
+lifecycle_stage: active
+run_id: a4c891015c164e7b8250f770d975a9c5
+run_name: illustrious-carp-506
+run_uuid: a4c891015c164e7b8250f770d975a9c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742859824838
+status: 3
+tags: []
+user_id: arturoavalos

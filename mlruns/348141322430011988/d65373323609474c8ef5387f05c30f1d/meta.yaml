@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/arturoavalos/Documents/MSDS/4mod/mlops/mlruns/348141322430011988/d65373323609474c8ef5387f05c30f1d/artifacts
+end_time: 1742858478492
+entry_point_name: ''
+experiment_id: '348141322430011988'
+lifecycle_stage: active
+run_id: d65373323609474c8ef5387f05c30f1d
+run_name: mercurial-squid-38
+run_uuid: d65373323609474c8ef5387f05c30f1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742858477177
+status: 3
+tags: []
+user_id: arturoavalos

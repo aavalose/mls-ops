@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/arturoavalos/Documents/MSDS/4mod/mlops/mlruns/348141322430011988/f70edc68dfb64f2298f87203bea6e0ea/artifacts
+end_time: 1742859824865
+entry_point_name: ''
+experiment_id: '348141322430011988'
+lifecycle_stage: active
+run_id: f70edc68dfb64f2298f87203bea6e0ea
+run_name: valuable-mule-458
+run_uuid: f70edc68dfb64f2298f87203bea6e0ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742859824856
+status: 3
+tags: []
+user_id: arturoavalos

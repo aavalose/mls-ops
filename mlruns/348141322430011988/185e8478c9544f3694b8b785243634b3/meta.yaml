@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/arturoavalos/Documents/MSDS/4mod/mlops/mlruns/348141322430011988/185e8478c9544f3694b8b785243634b3/artifacts
+end_time: 1742859824873
+entry_point_name: ''
+experiment_id: '348141322430011988'
+lifecycle_stage: active
+run_id: 185e8478c9544f3694b8b785243634b3
+run_name: puzzled-conch-852
+run_uuid: 185e8478c9544f3694b8b785243634b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742859824866
+status: 3
+tags: []
+user_id: arturoavalos

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/arturoavalos/Documents/MSDS/4mod/mlops/mlruns/348141322430011988/91459a12dfef4064ac80cd3b2e5ea832/artifacts
+end_time: 1742858492689
+entry_point_name: ''
+experiment_id: '348141322430011988'
+lifecycle_stage: active
+run_id: 91459a12dfef4064ac80cd3b2e5ea832
+run_name: brawny-stag-98
+run_uuid: 91459a12dfef4064ac80cd3b2e5ea832
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742858491136
+status: 3
+tags: []
+user_id: arturoavalos

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/arturoavalos/Documents/MSDS/4mod/mlops/mlruns/348141322430011988/c7505a680bc646778d8ddc413e6f797d/artifacts
+end_time: 1742859357071
+entry_point_name: ''
+experiment_id: '348141322430011988'
+lifecycle_stage: active
+run_id: c7505a680bc646778d8ddc413e6f797d
+run_name: omniscient-crab-571
+run_uuid: c7505a680bc646778d8ddc413e6f797d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742859356181
+status: 3
+tags: []
+user_id: arturoavalos

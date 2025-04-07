@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/arturoavalos/Documents/MSDS/4mod/mlops/mlruns/348141322430011988/8ff65922ef2145739d9f62b9534d6afb/artifacts
+end_time: 1742859361764
+entry_point_name: ''
+experiment_id: '348141322430011988'
+lifecycle_stage: active
+run_id: 8ff65922ef2145739d9f62b9534d6afb
+run_name: honorable-fawn-793
+run_uuid: 8ff65922ef2145739d9f62b9534d6afb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742859360622
+status: 3
+tags: []
+user_id: arturoavalos
