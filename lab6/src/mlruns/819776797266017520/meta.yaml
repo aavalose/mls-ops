@@ -1,0 +1,6 @@
+artifact_location: file:///Users/arturoavalos/Documents/MSDS/4mod/mlops/lab6/src/mlruns/819776797266017520
+creation_time: 1745287053943
+experiment_id: '819776797266017520'
+last_update_time: 1745287053943
+lifecycle_stage: active
+name: iris-metaflow-experiment

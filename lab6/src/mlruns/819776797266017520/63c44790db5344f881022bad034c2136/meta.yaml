@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/arturoavalos/Documents/MSDS/4mod/mlops/lab6/src/mlruns/819776797266017520/63c44790db5344f881022bad034c2136/artifacts
+end_time: 1745287055561
+entry_point_name: ''
+experiment_id: '819776797266017520'
+lifecycle_stage: active
+run_id: 63c44790db5344f881022bad034c2136
+run_name: merciful-lamb-21
+run_uuid: 63c44790db5344f881022bad034c2136
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745287054172
+status: 3
+tags: []
+user_id: arturoavalos
